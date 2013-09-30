@@ -16,7 +16,7 @@ Highlight:
 Example
 ![Libre Calc example](/images/image_FP_CALC_ods.png "Sample Calc format")
 
-Japanese example:
+Japanese example / 日本語もオッケーですよ:
 ![Libre Calc example - Japanese](/images/image_FP_CALC_ods-ja.png "Sample Calc format - Japanese")
 
 Idea of this tool came from some good pioneers below:
