@@ -13,7 +13,11 @@ Highlight:
 * Support localizations (currently english, japanese and simplified chinese).
 * Both LibreOffice Calc (*.ods) and MS Excel (*.xlsx) format
 
+Example
 ![Libre Calc example](/images/image_FP_CALC_ods.png "Sample Calc format")
+
+Japanese example:
+![Libre Calc example - Japanese](/images/image_FP_CALC_ods-ja.png "Sample Calc format - Japanese")
 
 Idea of this tool came from some good pioneers below:
 * http://www.brettboschma.com/portfolio/measurement.html
